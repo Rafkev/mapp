@@ -8,3 +8,5 @@ Once Flutter is installed, you can create a new Flutter project and replace the 
 This code creates a simple Flutter app with a single screen (MyHomePage) containing an app bar with a title and a centered column with a text widget displaying "Hello, World!" and an image fetched from a placeholder URL. You can replace the placeholder image URL with your own image URL.
 
 To run the app, connect your device or start an emulator, navigate to the project directory in your terminal, and execute:
+flutter run
+This will launch the app on your device or emulator
